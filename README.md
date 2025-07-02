@@ -9,7 +9,7 @@ HTML болон CSS ашиглан ресторан/кофе шопын меню
 
 🔗 Live Preview: [https://2-1-2-css-freecodecamp-caffee-menu-ane2allt5-baljirs-projects.vercel.app/](https://2-1-2-css-freecodecamp-caffee-menu-ane2allt5-baljirs-projects.vercel.app/)
 
-![Cafe Menu Screenshot](assets/cafe-menu.png)
+![Cafe Menu Screenshot](image.png)
 
 
 ---
